@@ -1,2 +1,2 @@
 # Library-management-system
-This is a library management in C-Programming language.
+This is a simple library management system in C-Programming language.
